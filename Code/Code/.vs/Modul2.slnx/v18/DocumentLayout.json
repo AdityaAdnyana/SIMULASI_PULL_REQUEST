@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R9480\\OneDrive\\Documents\\KPL\\MODUL2_103082400024\\Code\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4860D36-51F1-48BE-A3C4-FF844E47048E}|bilanganPrima\\bilanganPrima.csproj|c:\\users\\r9480\\onedrive\\documents\\kpl\\modul2_103082400024\\code\\code\\bilanganprima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4860D36-51F1-48BE-A3C4-FF844E47048E}|bilanganPrima\\bilanganPrima.csproj|solutionrelative:bilanganprima\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0836F4-EE1C-4303-AE21-52E3F6CEE745}|inputNama\\inputNama.csproj|c:\\users\\r9480\\onedrive\\documents\\kpl\\modul2_103082400024\\code\\code\\inputnama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0836F4-EE1C-4303-AE21-52E3F6CEE745}|inputNama\\inputNama.csproj|solutionrelative:inputnama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD65AC3-F9B3-40AA-9D4A-FD01611EB985}|array\\array.csproj|c:\\users\\r9480\\onedrive\\documents\\kpl\\modul2_103082400024\\code\\code\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD65AC3-F9B3-40AA-9D4A-FD01611EB985}|array\\array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\R9480\\OneDrive\\Documents\\KPL\\MODUL2_103082400024\\Code\\Code\\inputNama\\Program.cs",
+              "RelativeDocumentMoniker": "inputNama\\Program.cs",
+              "ToolTip": "C:\\Users\\R9480\\OneDrive\\Documents\\KPL\\MODUL2_103082400024\\Code\\Code\\inputNama\\Program.cs",
+              "RelativeToolTip": "inputNama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:18:32.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\R9480\\OneDrive\\Documents\\KPL\\MODUL2_103082400024\\Code\\Code\\bilanganPrima\\Program.cs",
+              "RelativeDocumentMoniker": "bilanganPrima\\Program.cs",
+              "ToolTip": "C:\\Users\\R9480\\OneDrive\\Documents\\KPL\\MODUL2_103082400024\\Code\\Code\\bilanganPrima\\Program.cs",
+              "RelativeToolTip": "bilanganPrima\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA9wCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T11:18:20.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\R9480\\OneDrive\\Documents\\KPL\\MODUL2_103082400024\\Code\\Code\\array\\Program.cs",
+              "RelativeDocumentMoniker": "array\\Program.cs",
+              "ToolTip": "C:\\Users\\R9480\\OneDrive\\Documents\\KPL\\MODUL2_103082400024\\Code\\Code\\array\\Program.cs",
+              "RelativeToolTip": "array\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T11:16:12.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
