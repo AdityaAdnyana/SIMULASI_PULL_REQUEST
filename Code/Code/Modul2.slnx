@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="array/array.csproj" Id="0cd65ac3-f9b3-40aa-9d4a-fd01611eb985" />
+  <Project Path="bilanganPrima/bilanganPrima.csproj" Id="e4860d36-51f1-48be-a3c4-ff844e47048e" />
+  <Project Path="inputNama/inputNama.csproj" Id="db0836f4-ee1c-4303-ae21-52e3f6cee745" />
+</Solution>
