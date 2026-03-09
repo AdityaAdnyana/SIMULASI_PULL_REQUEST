@@ -1,0 +1,14 @@
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\bin\Debug\net10.0\huruf.exe
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\bin\Debug\net10.0\huruf.deps.json
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\bin\Debug\net10.0\huruf.runtimeconfig.json
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\bin\Debug\net10.0\huruf.dll
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\bin\Debug\net10.0\huruf.pdb
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\obj\Debug\net10.0\huruf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\obj\Debug\net10.0\huruf.AssemblyInfoInputs.cache
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\obj\Debug\net10.0\huruf.AssemblyInfo.cs
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\obj\Debug\net10.0\huruf.csproj.CoreCompileInputs.cache
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\obj\Debug\net10.0\huruf.dll
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\obj\Debug\net10.0\refint\huruf.dll
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\obj\Debug\net10.0\huruf.pdb
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\obj\Debug\net10.0\huruf.genruntimeconfig.cache
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\tpMODUL2\obj\Debug\net10.0\ref\huruf.dll

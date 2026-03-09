@@ -1,0 +1,14 @@
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\bin\Debug\net10.0\5bilanganGenap.exe
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\bin\Debug\net10.0\5bilanganGenap.deps.json
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\bin\Debug\net10.0\5bilanganGenap.runtimeconfig.json
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\bin\Debug\net10.0\5bilanganGenap.dll
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\bin\Debug\net10.0\5bilanganGenap.pdb
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\obj\Debug\net10.0\5bilanganGenap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\obj\Debug\net10.0\5bilanganGenap.AssemblyInfoInputs.cache
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\obj\Debug\net10.0\5bilanganGenap.AssemblyInfo.cs
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\obj\Debug\net10.0\5bilanganGenap.csproj.CoreCompileInputs.cache
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\obj\Debug\net10.0\5bilanganGenap.dll
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\obj\Debug\net10.0\refint\5bilanganGenap.dll
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\obj\Debug\net10.0\5bilanganGenap.pdb
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\obj\Debug\net10.0\5bilanganGenap.genruntimeconfig.cache
+C:\Users\R9480\OneDrive\Documents\KPL\tpMODUL2_103082400024\tpMODUL2\5bilanganGenap\obj\Debug\net10.0\ref\5bilanganGenap.dll
