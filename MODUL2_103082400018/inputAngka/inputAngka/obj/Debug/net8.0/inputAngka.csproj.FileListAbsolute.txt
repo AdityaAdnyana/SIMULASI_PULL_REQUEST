@@ -1,0 +1,14 @@
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\bin\Debug\net8.0\inputAngka.exe
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\bin\Debug\net8.0\inputAngka.deps.json
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\bin\Debug\net8.0\inputAngka.runtimeconfig.json
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\bin\Debug\net8.0\inputAngka.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\bin\Debug\net8.0\inputAngka.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\obj\Debug\net8.0\inputAngka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\obj\Debug\net8.0\inputAngka.AssemblyInfoInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\obj\Debug\net8.0\inputAngka.AssemblyInfo.cs
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\obj\Debug\net8.0\inputAngka.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\obj\Debug\net8.0\inputAngka.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\obj\Debug\net8.0\refint\inputAngka.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\obj\Debug\net8.0\inputAngka.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\obj\Debug\net8.0\inputAngka.genruntimeconfig.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\inputAngka\inputAngka\obj\Debug\net8.0\ref\inputAngka.dll

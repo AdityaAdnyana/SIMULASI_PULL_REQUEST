@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farid\\Documents\\coding\\S4\\KPL\\MODUL2_103082400018\\InputNama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B040109F-3271-47BE-BC81-F4891DBC1DCF}|InputNama\\InputNama.csproj|c:\\users\\farid\\documents\\coding\\s4\\kpl\\modul2_103082400018\\inputnama\\inputnama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B040109F-3271-47BE-BC81-F4891DBC1DCF}|InputNama\\InputNama.csproj|solutionrelative:inputnama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Documents\\coding\\S4\\KPL\\MODUL2_103082400018\\InputNama\\InputNama\\Program.cs",
+              "RelativeDocumentMoniker": "InputNama\\Program.cs",
+              "ToolTip": "C:\\Users\\Farid\\Documents\\coding\\S4\\KPL\\MODUL2_103082400018\\InputNama\\InputNama\\Program.cs",
+              "RelativeToolTip": "InputNama\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T16:12:12.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\bin\Debug\net8.0\InputNama.exe
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\bin\Debug\net8.0\InputNama.deps.json
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\bin\Debug\net8.0\InputNama.runtimeconfig.json
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\bin\Debug\net8.0\InputNama.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\bin\Debug\net8.0\InputNama.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\obj\Debug\net8.0\InputNama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\obj\Debug\net8.0\InputNama.AssemblyInfoInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\obj\Debug\net8.0\InputNama.AssemblyInfo.cs
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\obj\Debug\net8.0\InputNama.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\obj\Debug\net8.0\InputNama.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\obj\Debug\net8.0\refint\InputNama.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\obj\Debug\net8.0\InputNama.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\obj\Debug\net8.0\InputNama.genruntimeconfig.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\InputNama\InputNama\obj\Debug\net8.0\ref\InputNama.dll

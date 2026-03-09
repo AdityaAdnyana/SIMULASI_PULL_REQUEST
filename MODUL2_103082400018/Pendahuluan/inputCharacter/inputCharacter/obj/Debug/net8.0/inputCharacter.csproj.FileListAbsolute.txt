@@ -1,0 +1,14 @@
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\obj\Debug\net8.0\inputCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\obj\Debug\net8.0\inputCharacter.AssemblyInfoInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\obj\Debug\net8.0\inputCharacter.AssemblyInfo.cs
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\obj\Debug\net8.0\inputCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\bin\Debug\net8.0\inputCharacter.exe
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\bin\Debug\net8.0\inputCharacter.deps.json
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\bin\Debug\net8.0\inputCharacter.runtimeconfig.json
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\bin\Debug\net8.0\inputCharacter.dll
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\bin\Debug\net8.0\inputCharacter.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\obj\Debug\net8.0\inputCharacter.dll
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\obj\Debug\net8.0\refint\inputCharacter.dll
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\obj\Debug\net8.0\inputCharacter.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\obj\Debug\net8.0\inputCharacter.genruntimeconfig.cache
+C:\Users\Farid\Documents\coding\S4\KPL\inputCharacter\inputCharacter\obj\Debug\net8.0\ref\inputCharacter.dll

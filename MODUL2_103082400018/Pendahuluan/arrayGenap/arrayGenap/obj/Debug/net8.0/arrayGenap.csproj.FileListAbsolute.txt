@@ -1,0 +1,14 @@
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\bin\Debug\net8.0\arrayGenap.exe
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\bin\Debug\net8.0\arrayGenap.deps.json
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\bin\Debug\net8.0\arrayGenap.runtimeconfig.json
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\bin\Debug\net8.0\arrayGenap.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\bin\Debug\net8.0\arrayGenap.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\obj\Debug\net8.0\arrayGenap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\obj\Debug\net8.0\arrayGenap.AssemblyInfoInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\obj\Debug\net8.0\arrayGenap.AssemblyInfo.cs
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\obj\Debug\net8.0\arrayGenap.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\obj\Debug\net8.0\arrayGenap.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\obj\Debug\net8.0\refint\arrayGenap.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\obj\Debug\net8.0\arrayGenap.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\obj\Debug\net8.0\arrayGenap.genruntimeconfig.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\Pendahuluan\arrayGenap\arrayGenap\obj\Debug\net8.0\ref\arrayGenap.dll

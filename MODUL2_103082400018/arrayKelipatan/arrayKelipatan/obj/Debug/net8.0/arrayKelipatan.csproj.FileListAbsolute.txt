@@ -1,0 +1,14 @@
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\obj\Debug\net8.0\arrayKelipatan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\obj\Debug\net8.0\arrayKelipatan.AssemblyInfoInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\obj\Debug\net8.0\arrayKelipatan.AssemblyInfo.cs
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\obj\Debug\net8.0\arrayKelipatan.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\bin\Debug\net8.0\arrayKelipatan.exe
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\bin\Debug\net8.0\arrayKelipatan.deps.json
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\bin\Debug\net8.0\arrayKelipatan.runtimeconfig.json
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\bin\Debug\net8.0\arrayKelipatan.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\bin\Debug\net8.0\arrayKelipatan.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\obj\Debug\net8.0\arrayKelipatan.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\obj\Debug\net8.0\refint\arrayKelipatan.dll
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\obj\Debug\net8.0\arrayKelipatan.pdb
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\obj\Debug\net8.0\arrayKelipatan.genruntimeconfig.cache
+C:\Users\Farid\Documents\coding\S4\KPL\MODUL2_103082400018\arrayKelipatan\arrayKelipatan\obj\Debug\net8.0\ref\arrayKelipatan.dll
